@@ -1,0 +1,1 @@
+Select * from Tbl_Personel where PerMeslek= 'Öðretmen' and PerDurum = 1 and PerMaas>2700
